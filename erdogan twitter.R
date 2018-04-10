@@ -48,9 +48,9 @@ library(proustr)
 vignette("auth", package = "rtweet")
 
 ## name of twitter app
-app_name <- "Iclal Turan"
-consumer_key <- "PGau5Y9R5ECL1PV8pKDMAqxaj"
-consumer_secret <- "pga9d8gsll3OBA7AaPFJ4OqSjaLUvU3bdzCw35IdCNR3xvZvmt"
+app_name <- " "
+consumer_key <- " "
+consumer_secret <- " "
 
 ##----------------------------------------------------------------------------##
 ##  3- create_token() & save token                                            ##
