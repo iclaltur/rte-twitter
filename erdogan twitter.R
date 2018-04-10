@@ -418,9 +418,5 @@ rt_tr_words_counts %>%
        x = "", y = "", caption = "\nSource: Data collected from Twitter's REST API via rtweet") + 
   theme_void()
 
-##----------------------------------------------------------------------------##
-##  18- thanks for reading me                                                 ##
-##----------------------------------------------------------------------------##
-
 
 
