@@ -311,7 +311,7 @@ rt_tr_cleaned_tweet_words <- rt_erdogan_tr_clean %>%
   anti_join(stop_words)
 
 ##----------------------------------------------------------------------------##
-##  15- plot Most Common Words in mentions of @JulianAssange                  ##
+##  15- plot Most Common Words in mentions                  ##
 ##----------------------------------------------------------------------------##
 
 # Finally, plot the top 15 words
